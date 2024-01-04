@@ -7,11 +7,11 @@ Groundwater is the main source for drinking and irrigation applications, so it i
 
 To study the Groundwater storage change and analyze its trend for twenty years in the Cauvery River basin 
 
-    1.	Estimate GWS using the parameters required namely surface runoff, surface moisture, and plant canopy water.
-    2.  Assess the total water thickness for the area of study.
-    3.	Developing a groundwater storage model for the Cauvery basin.
-    4.	Estimate the spatiotemporal groundwater storage change in the Cauvery River basin using GRACE satellite data.
-    5.	Comparing the GRACE-derived groundwater storage change with rainfall data.
+1.	Estimate GWS using the parameters required namely surface runoff, surface moisture, and plant canopy water.
+2.  Assess the total water thickness for the area of study.
+3.	Developing a groundwater storage model for the Cauvery basin.
+4.	Estimate the spatiotemporal groundwater storage change in the Cauvery River basin using GRACE satellite data.
+5.	Comparing the GRACE-derived groundwater storage change with rainfall data.
 
 # Study Area Description
 
